@@ -1,29 +1,33 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\mahad\\OneDrive\\Desktop\\230380_Mahadtariq_Mid\\Internship\\CrudApp\\",
+  "WorkspaceRootPath": "C:\\Users\\mahad\\OneDrive\\Desktop\\CRUD_Syntax\\Internship\\CrudApp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{47354374-2109-4661-B4A3-D6C49BF0C706}|BlazorApp\\BlazorApp.csproj|c:\\users\\mahad\\onedrive\\desktop\\230380_mahadtariq_mid\\internship\\crudapp\\blazorapp\\pages\\savedata.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{47354374-2109-4661-B4A3-D6C49BF0C706}|BlazorApp\\BlazorApp.csproj|c:\\users\\mahad\\onedrive\\desktop\\crud_syntax\\internship\\crudapp\\blazorapp\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{47354374-2109-4661-B4A3-D6C49BF0C706}|BlazorApp\\BlazorApp.csproj|solutionrelative:blazorapp\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47354374-2109-4661-B4A3-D6C49BF0C706}|BlazorApp\\BlazorApp.csproj|c:\\users\\mahad\\onedrive\\desktop\\crud_syntax\\internship\\crudapp\\blazorapp\\pages\\savedata.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{47354374-2109-4661-B4A3-D6C49BF0C706}|BlazorApp\\BlazorApp.csproj|solutionrelative:blazorapp\\pages\\savedata.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FB0AD10E-CD79-4709-BF56-D20EFF98D751}|ClassLibrarydal\\ClassLibrarydal.csproj|c:\\users\\mahad\\onedrive\\desktop\\230380_mahadtariq_mid\\internship\\crudapp\\classlibrarydal\\dbhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{FB0AD10E-CD79-4709-BF56-D20EFF98D751}|ClassLibrarydal\\ClassLibrarydal.csproj|c:\\users\\mahad\\onedrive\\desktop\\crud_syntax\\internship\\crudapp\\classlibrarydal\\dbhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FB0AD10E-CD79-4709-BF56-D20EFF98D751}|ClassLibrarydal\\ClassLibrarydal.csproj|solutionrelative:classlibrarydal\\dbhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FB0AD10E-CD79-4709-BF56-D20EFF98D751}|ClassLibrarydal\\ClassLibrarydal.csproj|c:\\users\\mahad\\onedrive\\desktop\\230380_mahadtariq_mid\\internship\\crudapp\\classlibrarydal\\dalstudent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{FB0AD10E-CD79-4709-BF56-D20EFF98D751}|ClassLibrarydal\\ClassLibrarydal.csproj|c:\\users\\mahad\\onedrive\\desktop\\crud_syntax\\internship\\crudapp\\classlibrarydal\\dalstudent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FB0AD10E-CD79-4709-BF56-D20EFF98D751}|ClassLibrarydal\\ClassLibrarydal.csproj|solutionrelative:classlibrarydal\\dalstudent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{47354374-2109-4661-B4A3-D6C49BF0C706}|BlazorApp\\BlazorApp.csproj|c:\\users\\mahad\\onedrive\\desktop\\230380_mahadtariq_mid\\internship\\crudapp\\blazorapp\\pages\\deletedata.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{47354374-2109-4661-B4A3-D6C49BF0C706}|BlazorApp\\BlazorApp.csproj|c:\\users\\mahad\\onedrive\\desktop\\crud_syntax\\internship\\crudapp\\blazorapp\\pages\\deletedata.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{47354374-2109-4661-B4A3-D6C49BF0C706}|BlazorApp\\BlazorApp.csproj|solutionrelative:blazorapp\\pages\\deletedata.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{47354374-2109-4661-B4A3-D6C49BF0C706}|BlazorApp\\BlazorApp.csproj|c:\\users\\mahad\\onedrive\\desktop\\230380_mahadtariq_mid\\internship\\crudapp\\blazorapp\\pages\\showdata.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{47354374-2109-4661-B4A3-D6C49BF0C706}|BlazorApp\\BlazorApp.csproj|c:\\users\\mahad\\onedrive\\desktop\\crud_syntax\\internship\\crudapp\\blazorapp\\pages\\showdata.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{47354374-2109-4661-B4A3-D6C49BF0C706}|BlazorApp\\BlazorApp.csproj|solutionrelative:blazorapp\\pages\\showdata.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B2F91DA1-A56A-4069-B8DF-637DC4C06C67}|ModelClass\\ModelClass.csproj|c:\\users\\mahad\\onedrive\\desktop\\230380_mahadtariq_mid\\internship\\crudapp\\modelclass\\modelclass.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "AbsoluteMoniker": "D:0:0:{B2F91DA1-A56A-4069-B8DF-637DC4C06C67}|ModelClass\\ModelClass.csproj|c:\\users\\mahad\\onedrive\\desktop\\crud_syntax\\internship\\crudapp\\modelclass\\modelclass.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{B2F91DA1-A56A-4069-B8DF-637DC4C06C67}|ModelClass\\ModelClass.csproj|solutionrelative:modelclass\\modelclass.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
@@ -34,15 +38,28 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 0,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "C:\\Users\\mahad\\OneDrive\\Desktop\\CRUD_Syntax\\Internship\\CrudApp\\BlazorApp\\Dockerfile",
+              "RelativeDocumentMoniker": "BlazorApp\\Dockerfile",
+              "ToolTip": "C:\\Users\\mahad\\OneDrive\\Desktop\\CRUD_Syntax\\Internship\\CrudApp\\BlazorApp\\Dockerfile",
+              "RelativeToolTip": "BlazorApp\\Dockerfile",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-11-28T12:07:01.506Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "ModelClass.csproj",
-              "DocumentMoniker": "C:\\Users\\mahad\\OneDrive\\Desktop\\230380_Mahadtariq_Mid\\Internship\\CrudApp\\ModelClass\\ModelClass.csproj",
+              "DocumentMoniker": "C:\\Users\\mahad\\OneDrive\\Desktop\\CRUD_Syntax\\Internship\\CrudApp\\ModelClass\\ModelClass.csproj",
               "RelativeDocumentMoniker": "ModelClass\\ModelClass.csproj",
-              "ToolTip": "C:\\Users\\mahad\\OneDrive\\Desktop\\230380_Mahadtariq_Mid\\Internship\\CrudApp\\ModelClass\\ModelClass.csproj",
+              "ToolTip": "C:\\Users\\mahad\\OneDrive\\Desktop\\CRUD_Syntax\\Internship\\CrudApp\\ModelClass\\ModelClass.csproj",
               "RelativeToolTip": "ModelClass\\ModelClass.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
@@ -50,11 +67,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "DalStudent.cs",
-              "DocumentMoniker": "C:\\Users\\mahad\\OneDrive\\Desktop\\230380_Mahadtariq_Mid\\Internship\\CrudApp\\ClassLibrarydal\\DalStudent.cs",
+              "DocumentMoniker": "C:\\Users\\mahad\\OneDrive\\Desktop\\CRUD_Syntax\\Internship\\CrudApp\\ClassLibrarydal\\DalStudent.cs",
               "RelativeDocumentMoniker": "ClassLibrarydal\\DalStudent.cs",
-              "ToolTip": "C:\\Users\\mahad\\OneDrive\\Desktop\\230380_Mahadtariq_Mid\\Internship\\CrudApp\\ClassLibrarydal\\DalStudent.cs",
+              "ToolTip": "C:\\Users\\mahad\\OneDrive\\Desktop\\CRUD_Syntax\\Internship\\CrudApp\\ClassLibrarydal\\DalStudent.cs",
               "RelativeToolTip": "ClassLibrarydal\\DalStudent.cs",
               "ViewState": "AgIAAA4AAAAAMzMzMzMjwCAAAAA9AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -62,24 +79,23 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "DBHelper.cs",
-              "DocumentMoniker": "C:\\Users\\mahad\\OneDrive\\Desktop\\230380_Mahadtariq_Mid\\Internship\\CrudApp\\ClassLibrarydal\\DBHelper.cs",
+              "DocumentMoniker": "C:\\Users\\mahad\\OneDrive\\Desktop\\CRUD_Syntax\\Internship\\CrudApp\\ClassLibrarydal\\DBHelper.cs",
               "RelativeDocumentMoniker": "ClassLibrarydal\\DBHelper.cs",
-              "ToolTip": "C:\\Users\\mahad\\OneDrive\\Desktop\\230380_Mahadtariq_Mid\\Internship\\CrudApp\\ClassLibrarydal\\DBHelper.cs",
+              "ToolTip": "C:\\Users\\mahad\\OneDrive\\Desktop\\CRUD_Syntax\\Internship\\CrudApp\\ClassLibrarydal\\DBHelper.cs",
               "RelativeToolTip": "ClassLibrarydal\\DBHelper.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAADwvwoAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-13T07:39:14.857Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-13T07:39:14.857Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "SaveData.razor",
-              "DocumentMoniker": "C:\\Users\\mahad\\OneDrive\\Desktop\\230380_Mahadtariq_Mid\\Internship\\CrudApp\\BlazorApp\\Pages\\SaveData.razor",
+              "DocumentMoniker": "C:\\Users\\mahad\\OneDrive\\Desktop\\CRUD_Syntax\\Internship\\CrudApp\\BlazorApp\\Pages\\SaveData.razor",
               "RelativeDocumentMoniker": "BlazorApp\\Pages\\SaveData.razor",
-              "ToolTip": "C:\\Users\\mahad\\OneDrive\\Desktop\\230380_Mahadtariq_Mid\\Internship\\CrudApp\\BlazorApp\\Pages\\SaveData.razor",
+              "ToolTip": "C:\\Users\\mahad\\OneDrive\\Desktop\\CRUD_Syntax\\Internship\\CrudApp\\BlazorApp\\Pages\\SaveData.razor",
               "RelativeToolTip": "BlazorApp\\Pages\\SaveData.razor",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAwAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -88,11 +104,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "DeleteData.razor",
-              "DocumentMoniker": "C:\\Users\\mahad\\OneDrive\\Desktop\\230380_Mahadtariq_Mid\\Internship\\CrudApp\\BlazorApp\\Pages\\DeleteData.razor",
+              "DocumentMoniker": "C:\\Users\\mahad\\OneDrive\\Desktop\\CRUD_Syntax\\Internship\\CrudApp\\BlazorApp\\Pages\\DeleteData.razor",
               "RelativeDocumentMoniker": "BlazorApp\\Pages\\DeleteData.razor",
-              "ToolTip": "C:\\Users\\mahad\\OneDrive\\Desktop\\230380_Mahadtariq_Mid\\Internship\\CrudApp\\BlazorApp\\Pages\\DeleteData.razor",
+              "ToolTip": "C:\\Users\\mahad\\OneDrive\\Desktop\\CRUD_Syntax\\Internship\\CrudApp\\BlazorApp\\Pages\\DeleteData.razor",
               "RelativeToolTip": "BlazorApp\\Pages\\DeleteData.razor",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -100,11 +116,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "ShowData.razor",
-              "DocumentMoniker": "C:\\Users\\mahad\\OneDrive\\Desktop\\230380_Mahadtariq_Mid\\Internship\\CrudApp\\BlazorApp\\Pages\\ShowData.razor",
+              "DocumentMoniker": "C:\\Users\\mahad\\OneDrive\\Desktop\\CRUD_Syntax\\Internship\\CrudApp\\BlazorApp\\Pages\\ShowData.razor",
               "RelativeDocumentMoniker": "BlazorApp\\Pages\\ShowData.razor",
-              "ToolTip": "C:\\Users\\mahad\\OneDrive\\Desktop\\230380_Mahadtariq_Mid\\Internship\\CrudApp\\BlazorApp\\Pages\\ShowData.razor",
+              "ToolTip": "C:\\Users\\mahad\\OneDrive\\Desktop\\CRUD_Syntax\\Internship\\CrudApp\\BlazorApp\\Pages\\ShowData.razor",
               "RelativeToolTip": "BlazorApp\\Pages\\ShowData.razor",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",

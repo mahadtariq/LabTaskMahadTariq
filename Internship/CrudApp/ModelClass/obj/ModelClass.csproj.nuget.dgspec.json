@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\mahad\\OneDrive\\Desktop\\230380_Mahadtariq_Mid\\Internship\\CrudApp\\ModelClass\\ModelClass.csproj": {}
+    "C:\\Users\\mahad\\OneDrive\\Desktop\\CRUD_Syntax\\Internship\\CrudApp\\ModelClass\\ModelClass.csproj": {}
   },
   "projects": {
-    "C:\\Users\\mahad\\OneDrive\\Desktop\\230380_Mahadtariq_Mid\\Internship\\CrudApp\\ModelClass\\ModelClass.csproj": {
+    "C:\\Users\\mahad\\OneDrive\\Desktop\\CRUD_Syntax\\Internship\\CrudApp\\ModelClass\\ModelClass.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\mahad\\OneDrive\\Desktop\\230380_Mahadtariq_Mid\\Internship\\CrudApp\\ModelClass\\ModelClass.csproj",
+        "projectUniqueName": "C:\\Users\\mahad\\OneDrive\\Desktop\\CRUD_Syntax\\Internship\\CrudApp\\ModelClass\\ModelClass.csproj",
         "projectName": "ModelClass",
-        "projectPath": "C:\\Users\\mahad\\OneDrive\\Desktop\\230380_Mahadtariq_Mid\\Internship\\CrudApp\\ModelClass\\ModelClass.csproj",
+        "projectPath": "C:\\Users\\mahad\\OneDrive\\Desktop\\CRUD_Syntax\\Internship\\CrudApp\\ModelClass\\ModelClass.csproj",
         "packagesPath": "C:\\Users\\mahad\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\mahad\\OneDrive\\Desktop\\230380_Mahadtariq_Mid\\Internship\\CrudApp\\ModelClass\\obj\\",
+        "outputPath": "C:\\Users\\mahad\\OneDrive\\Desktop\\CRUD_Syntax\\Internship\\CrudApp\\ModelClass\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
