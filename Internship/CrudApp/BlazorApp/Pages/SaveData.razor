@@ -1,0 +1,34 @@
+﻿@page "/saveData/{id}"
+@page "/saveData"
+
+@inject NavigationManager nm
+
+<PageTitle>Index Page</PageTitle>
+
+
+<input type="text" placeholder="Enter Student Id" @bind="modelStudent.StudentId" />
+<input type="text" placeholder="Enter  Name" @bind="modelStudent.StudentName" />
+<input type="text" placeholder="Enter  Uni Name " @bind="modelStudent.UniversityName" />
+
+<button type="button" @onclick="UpdateStudent">Update</button>
+<button type="button" @onclick="SaveStudent">Save</button>
+
+@code {
+    [Parameter] public string? id { get; set; }
+    ModelStudent modelStudent { get; set; } = new ModelStudent();
+
+
+    private void SaveStudent()
+    {
+        DalStudent.SaveStudentInformation(modelStudent);
+        nm.NavigateTo("ShowData");
+    }
+    private void UpdateStudent()
+    {
+
+        DalStudent.UpdateStudentInformation(modelStudent);
+        nm.NavigateTo("ShowData");
+
+    }
+
+}

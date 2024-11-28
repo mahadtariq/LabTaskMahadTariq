@@ -1,0 +1,33 @@
+D:\Internship Summer\Internship\CrudApp\ModelClass\bin\Debug\net7.0\ModelClass.deps.json
+D:\Internship Summer\Internship\CrudApp\ModelClass\bin\Debug\net7.0\ModelClass.dll
+D:\Internship Summer\Internship\CrudApp\ModelClass\bin\Debug\net7.0\ModelClass.pdb
+D:\Internship Summer\Internship\CrudApp\ModelClass\obj\Debug\net7.0\ModelClass.GeneratedMSBuildEditorConfig.editorconfig
+D:\Internship Summer\Internship\CrudApp\ModelClass\obj\Debug\net7.0\ModelClass.AssemblyInfoInputs.cache
+D:\Internship Summer\Internship\CrudApp\ModelClass\obj\Debug\net7.0\ModelClass.AssemblyInfo.cs
+D:\Internship Summer\Internship\CrudApp\ModelClass\obj\Debug\net7.0\ModelClass.csproj.CoreCompileInputs.cache
+D:\Internship Summer\Internship\CrudApp\ModelClass\obj\Debug\net7.0\ModelClass.dll
+D:\Internship Summer\Internship\CrudApp\ModelClass\obj\Debug\net7.0\refint\ModelClass.dll
+D:\Internship Summer\Internship\CrudApp\ModelClass\obj\Debug\net7.0\ModelClass.pdb
+D:\Internship Summer\Internship\CrudApp\ModelClass\obj\Debug\net7.0\ref\ModelClass.dll
+C:\Users\mahad\Downloads\Internship111\Internship\CrudApp\ModelClass\bin\Debug\net7.0\ModelClass.deps.json
+C:\Users\mahad\Downloads\Internship111\Internship\CrudApp\ModelClass\bin\Debug\net7.0\ModelClass.dll
+C:\Users\mahad\Downloads\Internship111\Internship\CrudApp\ModelClass\bin\Debug\net7.0\ModelClass.pdb
+C:\Users\mahad\Downloads\Internship111\Internship\CrudApp\ModelClass\obj\Debug\net7.0\ModelClass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mahad\Downloads\Internship111\Internship\CrudApp\ModelClass\obj\Debug\net7.0\ModelClass.AssemblyInfoInputs.cache
+C:\Users\mahad\Downloads\Internship111\Internship\CrudApp\ModelClass\obj\Debug\net7.0\ModelClass.AssemblyInfo.cs
+C:\Users\mahad\Downloads\Internship111\Internship\CrudApp\ModelClass\obj\Debug\net7.0\ModelClass.csproj.CoreCompileInputs.cache
+C:\Users\mahad\Downloads\Internship111\Internship\CrudApp\ModelClass\obj\Debug\net7.0\ModelClass.dll
+C:\Users\mahad\Downloads\Internship111\Internship\CrudApp\ModelClass\obj\Debug\net7.0\refint\ModelClass.dll
+C:\Users\mahad\Downloads\Internship111\Internship\CrudApp\ModelClass\obj\Debug\net7.0\ModelClass.pdb
+C:\Users\mahad\Downloads\Internship111\Internship\CrudApp\ModelClass\obj\Debug\net7.0\ref\ModelClass.dll
+C:\Users\mahad\OneDrive\Desktop\230380_Mahadtariq_Mid\Internship\CrudApp\ModelClass\bin\Debug\net7.0\ModelClass.deps.json
+C:\Users\mahad\OneDrive\Desktop\230380_Mahadtariq_Mid\Internship\CrudApp\ModelClass\bin\Debug\net7.0\ModelClass.dll
+C:\Users\mahad\OneDrive\Desktop\230380_Mahadtariq_Mid\Internship\CrudApp\ModelClass\bin\Debug\net7.0\ModelClass.pdb
+C:\Users\mahad\OneDrive\Desktop\230380_Mahadtariq_Mid\Internship\CrudApp\ModelClass\obj\Debug\net7.0\ModelClass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mahad\OneDrive\Desktop\230380_Mahadtariq_Mid\Internship\CrudApp\ModelClass\obj\Debug\net7.0\ModelClass.AssemblyInfoInputs.cache
+C:\Users\mahad\OneDrive\Desktop\230380_Mahadtariq_Mid\Internship\CrudApp\ModelClass\obj\Debug\net7.0\ModelClass.AssemblyInfo.cs
+C:\Users\mahad\OneDrive\Desktop\230380_Mahadtariq_Mid\Internship\CrudApp\ModelClass\obj\Debug\net7.0\ModelClass.csproj.CoreCompileInputs.cache
+C:\Users\mahad\OneDrive\Desktop\230380_Mahadtariq_Mid\Internship\CrudApp\ModelClass\obj\Debug\net7.0\ModelClass.dll
+C:\Users\mahad\OneDrive\Desktop\230380_Mahadtariq_Mid\Internship\CrudApp\ModelClass\obj\Debug\net7.0\refint\ModelClass.dll
+C:\Users\mahad\OneDrive\Desktop\230380_Mahadtariq_Mid\Internship\CrudApp\ModelClass\obj\Debug\net7.0\ModelClass.pdb
+C:\Users\mahad\OneDrive\Desktop\230380_Mahadtariq_Mid\Internship\CrudApp\ModelClass\obj\Debug\net7.0\ref\ModelClass.dll

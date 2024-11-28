@@ -1,0 +1,23 @@
+﻿@page "/deletedata"
+
+@inject NavigationManager Navigation
+
+<h3>Delete Student by ID</h3>
+
+<input type="number" placeholder="Enter Student ID" @bind="StudentId" />
+<button type="button" @onclick="DeleteStudent">Delete</button>
+
+
+@code {
+    private int StudentId { get; set; }
+
+    private void DeleteStudent()
+    {
+      
+
+            ClassLibrarydal.DalStudent.DeleteStudentInformation(StudentId); // Call the delete method from DAL
+        Navigation.NavigateTo("/showdata");
+        }
+    
+    }
+}
