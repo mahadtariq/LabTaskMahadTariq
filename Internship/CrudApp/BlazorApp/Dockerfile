@@ -11,4 +11,4 @@ RUN dotnet publish -c Release -o /app
 FROM base AS final
 WORKDIR /app
 COPY --from=build /app .
-ENTRYPOINT ["dotnet", "MyDockerApp.dll"]
+ENTRYPOINT ["dotnet", "CRUD_Syntax.dll"]
